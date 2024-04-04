@@ -1,0 +1,103 @@
+
+{
+ "services":[
+    {
+        "id":1,
+      "title": "HTML5 Course",
+      "description": "Learn HTML5 from scratch with our comprehensive course. Master the latest version of HTML and build modern, responsive web pages.",
+      "image": "/images/img5.jpg ",
+      "link": "https://example.com/html5_course",
+      "price": 49.99,
+      "isFeatured": true,
+      "featuredDeveloper": "WebDevPro Academy"
+    },
+    {
+        "id":2,
+      "title": "CSS3 Mastery",
+      "description": "Advance your CSS skills with our CSS3 Mastery course. Dive deep into advanced styling techniques and create stunning web designs.",
+      "image": "/images/img4.jpg ",
+      "link": "https://example.com/css3_course",
+      "price": 59.99,
+      "isFeatured": false,
+      "featuredDeveloper": "StyleGenius Institute"
+    },
+    {
+        "id":3,
+      "title": "JavaScript Bootcamp",
+      "description": "Join our JavaScript Bootcamp to become a proficient JavaScript developer. Learn JavaScript fundamentals and build interactive web applications.",
+      "image": "/images/img2.jpg ",
+      "link": "https://example.com/javascript_bootcamp",
+      "price": 99.99,
+      "isFeatured": true,
+      "featuredDeveloper": "CodeMaster Academy"
+    },
+    {
+        "id":4,
+      "title": "React.js Workshop",
+      "description": "Get hands-on experience with React.js in our intensive workshop. Learn to build powerful UI components and single-page applications.",
+      "image": "/images/img5.jpg ",
+      "link": "https://example.com/reactjs_workshop",
+      "price": 79.99,
+      "isFeatured": true,
+      "featuredDeveloper": "Reactify Labs"
+    },
+    {
+        "id":5,
+      "title": "Node.js Crash Course",
+      "description": "Master Node.js in our fast-paced crash course. Build scalable server-side applications and RESTful APIs with Node.js.",
+      "image": "/images/img4.jpg ",
+      "link": "https://example.com/nodejs_crash_course",
+      "price": 69.99,
+      "isFeatured": true,
+      "featuredDeveloper": "NodeNinjas Academy"
+    },
+    
+    {
+    "id":6,
+     "title": "CSS3",
+    "description": "CSS3 is the latest evolution of the Cascading Style Sheets language and aims at extending CSS2.1. It adds powerful features to enhance the presentation and layout of web pages.",
+    "image": "/images/img3.jpg",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3",
+    "price": 0,
+    "isFeatured": true,
+    "featuredDeveloper": "WebDevPro Academy"
+    
+  },
+  {
+    "id":7,
+    "title": "JavaScript",
+    "description": "JavaScript is a programming language that enables interactive web pages and is an essential part of web development. It's used for dynamic content, animations, and more.",
+    "image": "/images/img2.jpg ",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+    "price": 0,
+    "isFeatured": false,
+    "featuredDeveloper": "WebDevPro Academy"
+  }
+
+
+
+
+
+
+
+
+
+  ]
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
